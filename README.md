@@ -30,6 +30,8 @@ L'architettura dell'applicazione si basa sulle migliori librerie dell'ecosistema
 
 <img width="30%" alt="WhatsApp Image 2026-05-15 at 21 34 57" src="https://github.com/user-attachments/assets/ffe3d633-16e2-47bc-80aa-0636f6d629c0" />       <img width="30%" height="1560" alt="WhatsApp Image 2026-05-15 at 21 35 33" src="https://github.com/user-attachments/assets/235f684b-5ea4-468a-9c61-aa3e48deb03b" />
 
+---  
+
 
 ## Come Avviare il Progetto
 
