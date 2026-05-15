@@ -1,20 +1,20 @@
-# 🔌 NetGuard
+# NetGuard
 
-Un'applicazione mobile moderna sviluppata in **Flutter** per la scansione e la diagnostica delle reti locali (LAN). L'app identifica i dispositivi attivi all'interno della stessa rete Wi-Fi scansionando le porte più comuni in modo asincrono e parallelo, garantendo prestazioni ultra-rapide.
+Un'applicazione mobile moderna sviluppata in **Flutter** per la scansione e la diagnostica delle reti locali (LAN). L'app identifica i dispositivi attivi all'interno della stessa rete Wi-Fi scansionando le porte più comuni.
 
 ---
 
-## 🚀 Funzionalità
+##  Funzionalità
 
 *   **Rilevamento IP Locale:** Identifica istantaneamente l'indirizzo IP del dispositivo su cui è eseguita l'app.
-*   **Scansione di Sottorete Ultra-Veloce:** Scansiona l'intera sottorete (254 indirizzi IP) in parallelo in pochissimi secondi.
+*   **Scansione di Sottorete:** Scansiona l'intera sottorete (254 indirizzi IP).
 *   **Port Scanning Integrato:** Verifica lo stato dei dispositivi interrogando le porte più comuni (`80`, `443`, `22`, `135`, `445`, `5357`, `8000`).
 *   **Dettaglio Dispositivo & Navigazione:** Interfaccia dedicata per analizzare il singolo IP.
 *   **Salvataggio Locale:** Cronologia e preferiti integrati per salvare i dispositivi rilevati.
 
 ---
 
-## 🛠️ Stack Tecnologico & Pacchetti
+## Stack Tecnologico & Pacchetti
 
 L'architettura dell'applicazione si basa sulle migliori librerie dell'ecosistema Flutter:
 
@@ -25,7 +25,7 @@ L'architettura dell'applicazione si basa sulle migliori librerie dell'ecosistema
 
 ---
 
-## 💻 Come Avviare il Progetto
+## Come Avviare il Progetto
 
 ### Prerequisiti
 Assicurati di avere Flutter installato sul tuo sistema (`flutter doctor` deve essere verde).
