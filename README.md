@@ -40,4 +40,4 @@ Assicurati di avere Flutter installato sul tuo sistema (`flutter doctor` deve es
 
 1. Clona la repository:
    ```bash
-   git clone [https://github.com/TUO-USERNAME/NOME-REPO.git](https://github.com/TUO-USERNAME/NOME-REPO.git)
+   git clone https://github.com/Miqweaschi/Net_Guard
